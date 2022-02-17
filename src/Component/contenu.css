@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.accueil {
+    background-color: grey;
+    width: auto;
+    height: 600px;
+
+}
+
+.container-accueil {
+    background-color: khaki;
+    width: auto;
+    padding: 40px;
+}
+
+.left{
+    background-color: lightblue;
+    height: 500px;
+    width: 500px;
+    display: block;
+}
+
+.right {
+    background-color: lightgreen;
+    display: flex;
+    align-items: flex-end;
+}
+
+.title {
+    padding: 10px;
+    font-size: small;
+}
+
+.big-title {
+    font: bolder;
+    font-size: 50px;
+    letter-spacing: -.8px;
+    font-family:"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+}
+
+.text {
+ margin-top: 10px;
+}
